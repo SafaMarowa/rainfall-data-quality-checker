@@ -1,0 +1,15 @@
+Source: NASA POWER Daily API
+Official documentation: https://power.larc.nasa.gov/docs/services/api/temporal/daily/
+Parameter: PRECTOTCORR (corrected precipitation)
+Location: Dhaka-area grid point
+Latitude: 23.8103
+Longitude: 90.4125
+Requested period: 20240101 to 20251231
+Time standard: UTC
+
+Note:
+These are gridded meteorological estimates, not necessarily direct measurements from a local rain gauge.
+Missing values are represented as NaN in the downloaded CSV.
+The data have not been used to produce a flood forecast.
+
+Note: This file records the intended data source and request settings. Add the actual retrieval date after confirming when the data were downloaded.
